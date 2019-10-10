@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Chăm sóc khách hàng",
+    "detail": {
+      "phone_number": "017239811",
+      "email": "abc@gmail.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Đăng ký dịch vụ",
+    "detail": {
+      "phone_number": "017239811",
+      "email": "abc@gmail.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tuyển dụng",
+    "detail": {
+      "phone_number": "017239811",
+      "email": "abc@gmail.com"
+    }
+  }
+]

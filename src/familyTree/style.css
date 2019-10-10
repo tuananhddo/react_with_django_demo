@@ -1,0 +1,9 @@
+#searchBar:focus {
+    outline: none !important;
+}
+.slideshow-container {
+  max-width: 100%;
+  max-height: 350px;
+  position: relative;
+  margin: auto;
+}
